@@ -9,7 +9,7 @@
 
 <h3>Introduction</h3>
 
-<p>Health is wealth and many people wanted to achieve their health goals. The application being proposed aims to help and improve nutrition and health outcome of people by providing them with list of receipes that can help them with their diet. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Health is wealth and many people wanted to achieve their health goals. The application being proposed aims to help and improve nutrition and health outcome of people by providing them with list of receipes that can help them with their diet. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.</p>
 
 <h3>Sustainable Development Goals</h3>
 
