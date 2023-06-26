@@ -15,7 +15,7 @@
 
 ![sdg1](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/5f0b76e4-326e-4745-ba45-8eba1228852d)
 
-<p align="center"><strong>Goal 3: Good Health and Well-being</p>
+<p align="center"><strong>Goal 3: Good Health and Well-being</strong>strong></p>
   
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. This proposed project aims to help people with their health goals by providing receipes that can help them improve their nutrition and health outcomes.</p>
 
