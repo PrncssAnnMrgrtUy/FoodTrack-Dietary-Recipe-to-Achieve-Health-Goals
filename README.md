@@ -13,7 +13,9 @@
 
 <h3>Sustainable Development Goals</h3>
 
+<p align="center">
 ![sdg1](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/5f0b76e4-326e-4745-ba45-8eba1228852d)
+</p>
 
 <p align="center"><strong>Goal 3: Good Health and Well-being</strong></p>
   
