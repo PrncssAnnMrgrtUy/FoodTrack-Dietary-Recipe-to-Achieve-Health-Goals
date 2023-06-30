@@ -13,10 +13,7 @@
 
 <h3>Sustainable Development Goals</h3>
 
-![sdg1](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/5f0b76e4-326e-4745-ba45-8eba1228852d)
-
-![To ensure healthy lives and promote well-being for all at all ages](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/d2439443-82c3-4b8f-bfbd-88f909fd1013)
-
+![Ensure healthy lives and promote well-being for all at all ages](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/e74f8e12-9357-42ae-8266-2c0e9fda119e)
 
 
 <p><strong>Goal 3: Good Health and Well-being</strong></p>
