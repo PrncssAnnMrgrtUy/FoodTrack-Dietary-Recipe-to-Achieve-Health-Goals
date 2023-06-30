@@ -22,7 +22,6 @@
 
 
 
-
 <h3>Purpose and Description</h3>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A healthy eating plan provides your body with the nutrition it need on a daily basis while keeping you under your daily calorie goal for weight loss. A healthy plan also reduce your chances of heart disease and other health problems. A well-balances meal supplies you with all the energy you need to be active throughout the day. The nutrients you need for growth and repair, helping you to stay strong, healthy, and assist to prevent diet-related sickness, such as some malignancies.</p>
