@@ -1,4 +1,4 @@
-# FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals
+# GoodFood-Healthy-Recipe-to-Achieve-Health-Goals
 
 <h2> Team Members:</h2>
 <p>Duño, Razell A.</p>
