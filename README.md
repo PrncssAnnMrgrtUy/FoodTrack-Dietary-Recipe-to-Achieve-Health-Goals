@@ -1,10 +1,4 @@
 # GoodFood: Healthy Recipes to Achieve Health Goals
-
-<h2> Team Members:</h2>
-<p>Duño, Razell A.</p>
-<p>Falculan, Kristel Jane I.</p>
-<p>Uy, Princess Ann Margaret E.</p>
-
 ***
 ![Header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/06f6b628-1b2e-402a-aa85-e72ba5f7e293)
 
