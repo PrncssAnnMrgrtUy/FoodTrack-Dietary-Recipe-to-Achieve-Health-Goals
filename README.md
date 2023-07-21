@@ -46,7 +46,10 @@
 <h1>System Architecture</h1>
 <h2>Use Case Diagram</h2>
 
+![usecase](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/c504b125-1957-45f0-9c00-4ea215b7ab00)
+
 <h2>Sequence Diagram</h2>
+
 ![sequence](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/51edf304-82bf-4bd4-9706-7a83a9e37936)
 
 <h3>Project Screenshots</h3>
