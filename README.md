@@ -7,7 +7,8 @@
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Health is wealth and many people wanted to achieve their health goals. The application being proposed aims to help and improve nutrition and health outcome of people by providing them with list of receipes that can help them with their diet. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.</p>
 <h3>Sustainable Development Goals</h3>
 
-![Ensure healthy lives and promote well-being for all at all ages](https://github.com/PrncssAnnMrgrtUy/FoodTrack-Dietary-Recipe-to-Achieve-Health-Goals/assets/114508738/e74f8e12-9357-42ae-8266-2c0e9fda119e)
+![sdg](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/d50f3c76-aebf-411b-adc0-8ec6697024cd)
+
 
 
 <p><strong>Goal 3: Good Health and Well-being</strong></p>
