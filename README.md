@@ -1,6 +1,6 @@
 # GoodFood: Healthy Recipes to Achieve Health Goals
 ***
-![Header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/06f6b628-1b2e-402a-aa85-e72ba5f7e293)
+![header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/927685e7-3cb5-408d-932f-2d3f2ada0c3c)
 
 <h3>Introduction</h3>
 
