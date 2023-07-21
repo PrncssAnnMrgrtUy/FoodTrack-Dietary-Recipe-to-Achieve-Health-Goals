@@ -52,6 +52,7 @@
 
 ![sequence](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/51edf304-82bf-4bd4-9706-7a83a9e37936)
 
+
 <h3>Project Screenshots</h3>
 
 ![ss1](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/03baa88d-3db0-4847-b80c-20798fbe485b)
