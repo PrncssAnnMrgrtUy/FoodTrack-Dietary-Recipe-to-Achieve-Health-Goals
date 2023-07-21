@@ -1,0 +1,69 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="warning">
+    <ion-title class="title">B R E A K F A S T</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+ 
+  <br>
+  <ion-button class="back" (click)="c1()" color="warning"><ion-icon name="arrow-back-outline"></ion-icon></ion-button>
+  
+  <div>
+  <ion-card>
+    <img alt="Avocado-Egg Toast" src="./assets/images/avocadotoast.png" />
+    <ion-card-header>
+      <ion-card-title>Avocado-Egg Toast</ion-card-title>
+      <ion-card-content>
+        Try it once and we think you'll agree: 
+        Topping avocado toast with an egg is a near-perfect breakfast.
+      </ion-card-content>
+      <ion-card-subtitle>Nutrition: per serving</ion-card-subtitle>
+      <ion-grid>
+        <ion-row class="ion-justify-content-start">
+          <ion-col size="6" size-sm="3">kcal: 271</ion-col>
+          <ion-col size="6" size-sm="3">fat: 18g</ion-col>
+          <ion-col size="6" size-sm="3">saturates: 4g</ion-col>
+          <ion-col size="6" size-sm="3">carbs: 18g</ion-col>
+          <ion-col size="6" size-sm="3">sugars: 2g</ion-col>
+          <ion-col size="6" size-sm="3">fiber: 5g</ion-col>
+          <ion-col size="6" size-sm="3">protein: 12g</ion-col>
+          <ion-col size="6" size-sm="3">salt: 0.2g</ion-col>
+        </ion-row>
+      </ion-grid>
+
+    <ion-card-subtitle>Ingredients:</ion-card-subtitle>
+    <ion-card-content>
+      <li>¼ avocado</li>
+      <li>¼ teaspoon ground pepper</li>
+      <li>⅛ teaspoon garlic powder</li>
+      <li>1 slice whole-wheat bread, toasted</li>
+      <li>1 large egg, fried</li>
+      <li>1 teaspoon Sriracha (Optional)</li>
+      <li>1 tablespoon scallion, sliced (Optional)</li>
+    </ion-card-content>
+
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title>Directions</ion-card-title>
+        <ion-card-subtitle>Step 1</ion-card-subtitle>
+      </ion-card-header>
+    
+      <ion-card-content>
+        Combine avocado, pepper and garlic powder in a small bowl and gently mash.
+      </ion-card-content>
+
+      <ion-card-header>
+        <ion-card-subtitle>Step 2</ion-card-subtitle>
+      </ion-card-header>
+
+      <ion-card-content>
+        Top toast with the avocado mixture and fried egg. Garnish with Sriracha and scallion, if desired.
+      </ion-card-content>
+
+    </ion-card>
+    </ion-card-header>
+
+  </ion-card>
+</div>
+</ion-content>

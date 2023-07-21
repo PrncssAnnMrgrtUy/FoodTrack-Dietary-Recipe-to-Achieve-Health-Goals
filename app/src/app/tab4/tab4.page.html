@@ -1,0 +1,50 @@
+ <ion-content [fullscreen]="true">
+
+    <ion-button class="back" (click)="tab1()" color="warning"><ion-icon name="arrow-back-outline"></ion-icon></ion-button>
+  <div class="banner">
+   <img src="./assets/images/logo1.png" class="logo" />
+
+   <p class="header">About</p>
+   <ion-card color="warning">
+    <ion-card-content class="txt">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This application is all about food recipes that can help everyone to achieve their health goals. 
+      It ensures that people can choose a healthy recipe to prepare, which can provide them the nutrition that by their body needed. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.
+    </ion-card-content>
+  </ion-card>
+  
+  <p class="header">Developers</p>
+   <ion-card color="warning">
+    <ion-card-content>
+      <ion-list>
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <img alt="Silhouette of mountains" src="./assets/images/m1.png" />
+          </ion-thumbnail>
+          <p>Duño, Razell A.</p>
+        </ion-item>
+  
+        <ion-item>
+          <ion-thumbnail slot="start">
+            <img alt="Silhouette of mountains" src="./assets/images/f1.png" />
+          </ion-thumbnail>
+          <p>Falculan, Kristel Jane I.</p>
+        </ion-item>
+  
+        <ion-item lines="none">
+          <ion-thumbnail slot="start">
+            <img alt="Silhouette of mountains" src="./assets/images/f2.png" />
+          </ion-thumbnail>
+          <p>Uy, Princess Ann Margaret E.</p>
+        </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+  </div>
+
+  <div class="b1">
+    <ion-button id="present-alert">S U R V E Y</ion-button>
+  <ion-alert trigger="present-alert" class="custom-alert" header="Does the articles help you?" [buttons]="alertButtons"></ion-alert>
+  </div>
+  
+  </ion-content>
+  

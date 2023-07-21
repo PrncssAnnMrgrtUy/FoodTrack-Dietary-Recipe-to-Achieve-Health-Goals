@@ -1,0 +1,58 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="warning">
+    <ion-title class="title">GoodFood</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" class="wc">
+
+  <br>
+  <ion-card>
+    <img alt="Breakfast" src="./assets/images/banner.png">
+  </ion-card>
+
+<div class="c1-c4">
+<ion-row>
+<ion-col size="6">
+  <ion-card>
+    <img alt="Breakfast" src="./assets/images/c1.png" (click)="c1()" />
+    <ion-card-header>
+      <ion-card-title>Breakfast</ion-card-title>
+    </ion-card-header>
+  </ion-card>
+  <br>
+</ion-col>
+  
+<ion-col size="6">
+  <ion-card>
+    <img alt="Lunch" src="./assets/images/c2.png" (click)="c2()" />
+    <ion-card-header>
+      <ion-card-title>Lunch</ion-card-title>
+    </ion-card-header>
+  </ion-card>
+  <br>
+</ion-col>
+
+<ion-col size="6">
+  <ion-card>
+    <img alt="Dinner" src="./assets/images/c3.png" (click)="c3()" />
+    <ion-card-header>
+      <ion-card-title>Dinner</ion-card-title>
+    </ion-card-header>
+  </ion-card>
+  <br>
+</ion-col>
+
+<ion-col size="6">
+  <ion-card>
+    <img alt="Dessert" src="./assets/images/c4.png" (click)="c4()" />
+    <ion-card-header>
+      <ion-card-title>Dessert</ion-card-title>
+    </ion-card-header>
+  </ion-card>
+  <br>
+</ion-col>
+</ion-row>
+</div>
+
+</ion-content>
