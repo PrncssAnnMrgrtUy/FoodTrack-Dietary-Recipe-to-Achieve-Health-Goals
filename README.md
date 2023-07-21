@@ -6,9 +6,7 @@
 <p>Uy, Princess Ann Margaret E.</p>
 
 ***
-<center>
   ![logo1](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/060bab1c-9fc5-4b41-805d-2ddb48b41c9a)
-</center>
 
 <h3>Introduction</h3>
 
