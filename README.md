@@ -23,5 +23,8 @@
 
 <h3>Development Model</h3>
 <h3>Project Screenshots</h3>
+![ss1](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/03baa88d-3db0-4847-b80c-20798fbe485b)
+![ss2](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/4d9cac6d-e36c-4121-a4cc-b47bbee72bb9)
+
 
 
