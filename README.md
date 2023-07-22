@@ -6,7 +6,7 @@
 
 ***
 
-<h1>Team Members:</h1>
+<h3>Team Members:</h3>
 <p>Duño, Razell A.</p>
 <p>Falculan, Kristel Jane I.</p>
 <p>Uy, Princess Ann Margaret E.</p>
