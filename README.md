@@ -52,7 +52,8 @@
 
 <h2>Sequence Diagram</h2>
 
-![sequence](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/51edf304-82bf-4bd4-9706-7a83a9e37936)
+![sequence](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/a0e85141-41d2-43fc-8864-2439a5eaad96)
+
 
 
 <h3>Project Screenshots</h3>
