@@ -1,4 +1,4 @@
-<h1 text-align="center">GoodFood: Healthy Recipes to Achieve Health Goals</h1>
+<h1 align="center">GoodFood: Healthy Recipes to Achieve Health Goals</h1>
 
 ***
 
