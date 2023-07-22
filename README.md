@@ -4,6 +4,11 @@
 
 ![header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/927685e7-3cb5-408d-932f-2d3f2ada0c3c)
 
+<h1>Team Members:</h1>
+<p>Duño, Razell A.</p>
+<p>Falculan, Kristel Jane I.</p>
+<p>Uy, Princess Ann Margaret E.</p>
+
 <h3>Introduction</h3>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Health is wealth and many people wanted to achieve their health goals. The application being proposed aims to help and improve nutrition and health outcome of people by providing them with list of receipes that can help them with their diet. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.</p>
