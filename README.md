@@ -7,6 +7,12 @@
 <h3>Introduction</h3>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Health is wealth and many people wanted to achieve their health goals. The application being proposed aims to help and improve nutrition and health outcome of people by providing them with list of receipes that can help them with their diet. It contain functions, which aims to achieve the sustainable dvelopment goal number 3: Good health and well-being.</p>
+
+<h3>Purpose and Description</h3>
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A healthy eating plan provides your body with the nutrition it need on a daily basis while keeping you under your daily calorie goal for weight loss. A healthy plan also reduce your chances of heart disease and other health problems. A well-balances meal supplies you with all the energy you need to be active throughout the day. The nutrients you need for growth and repair, helping you to stay strong, healthy, and assist to prevent diet-related sickness, such as some malignancies.</p>
+
+
 <h3>Sustainable Development Goals</h3>
 
 
@@ -17,12 +23,6 @@
 <p align="center"><strong>Goal 3: Good Health and Well-being</strong></p>
   
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. This proposed project aims to help people with their health goals by providing receipes that can help them improve their nutrition and health outcomes.</p>
-
-
-
-<h3>Purpose and Description</h3>
-
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A healthy eating plan provides your body with the nutrition it need on a daily basis while keeping you under your daily calorie goal for weight loss. A healthy plan also reduce your chances of heart disease and other health problems. A well-balances meal supplies you with all the energy you need to be active throughout the day. The nutrients you need for growth and repair, helping you to stay strong, healthy, and assist to prevent diet-related sickness, such as some malignancies.</p>
 
 <h3>Development Model</h3>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Using this method, a project can be managed by being divided into numerous phases. Continuous improvement is required at every stage, as well as ongoing collaboration with the user. The team will cycle through a process of analyzing, executing, and evaluating their work after it has started. This type of method will enable the proponents to test the system for errors and address problems on a daily basis. That is why this is the most suitable method to use since changes are inevitable. The system may experience problems or things that need to be changed. Through using this methodology, changes can be done even in the middle of the process until the project functions well.</p>
