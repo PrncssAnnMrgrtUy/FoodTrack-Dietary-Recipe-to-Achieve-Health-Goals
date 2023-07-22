@@ -1,8 +1,9 @@
-<h1 align="center">GoodFood: Healthy Recipes to Achieve Health Goals</h1>
+![header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/927685e7-3cb5-408d-932f-2d3f2ada0c3c)
+
 
 ***
-
-![header](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/927685e7-3cb5-408d-932f-2d3f2ada0c3c)
+<h1 align="center">GoodFood: Healthy Recipes to Achieve Health Goals</h1>
+***
 
 <h1>Team Members:</h1>
 <p>Duño, Razell A.</p>
