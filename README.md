@@ -14,7 +14,7 @@
 
 
 
-<p><strong>Goal 3: Good Health and Well-being</strong></p>
+<p align="center"><strong>Goal 3: Good Health and Well-being</strong></p>
   
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this SDG is to ensure healthy lives and promote well-being for all at all ages. This proposed project aims to help people with their health goals by providing receipes that can help them improve their nutrition and health outcomes.</p>
 
@@ -48,6 +48,8 @@
      <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The group will consider and review possible complications that may emerge when the application is implemented. Targeting to always improve, to support, and continue to be dependable to ensure the success of the application.</p>
 
 <h1>System Architecture</h1>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The diagram shows the flow on how the users can use the app and how each functions work when the user access the application. It shows how the user can use the application and how easy it is to navigate its interface.</p>
+
 <h2>Use Case Diagram</h2>
 
 ![usecase](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/c504b125-1957-45f0-9c00-4ea215b7ab00)
