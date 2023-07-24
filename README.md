@@ -40,13 +40,13 @@
      <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the initial phase, the team intends to develop a mobile application to deliver healthy recipes to help the users maintain their good eating habits. The primary goal in launching this application is to help the users with deciding what food could they cook for the day. It also assists app users in better understanding the various foods that would boost their health.</p>
 
 <h3>DESIGN</h3>
-     <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the application displays the initial paperwork containing all of the essentials for the application. Including presence of a wireframe that will serve as a model to further clarify the structure as well as a high-fidelity render design displaying the overall the application's look.</p>
+     <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the application displays the initial paperwork containing all of the essentials for the application. Including presence of a wireframe that will serve as a model to further clarify the structure as well as a high-fidelity render design displaying the overall look of the application.</p>
 
 <h3>DEVELOPMENT</h3>
-    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the design section, The crew will collaborate with the technique for developing coding the application that will fulfill the goals and plans properly serve its objectives the users.</p>
+    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the design section, the developers will collaborate with the users in developing the application that will fulfill the goals and plans to properly serve its objectives.</p>
 
 <h3>TESTING</h3>
-    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The team will having a multi-step procedure by reviewing the program for any possible errors. Do errors and bugs alterations when the situation presents it. As a result of the testing as well as the debugging procedure, The application will have its own dependability and growth to be able to help the users in achieving the health goals by providing healthy recipes. </p>
+    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The team will be having a multi-step procedure by reviewing the program for any possible errors. Do errors and bugs alterations when the situation presents it. As a result of the testing as well as the debugging procedure, the application will have its own dependability and growth to be able to help the users in achieving the health goals by providing healthy recipes. </p>
 
 <h3>IMPLEMENTATION</h3>
    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following the effective conclusion of the debugging and testing of the application, it will be implemented and accessible to the users that can serve as a guide on what healthy food should they cook for themselves.</p>
