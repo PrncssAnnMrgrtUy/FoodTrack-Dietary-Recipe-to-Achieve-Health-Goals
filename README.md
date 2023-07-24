@@ -73,5 +73,11 @@
 
 ![ss2](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/4d9cac6d-e36c-4121-a4cc-b47bbee72bb9)
 
-
+<h2>References:</h2>
+<p>https://www.bbcgoodfood.com</p>
+<p>https://www.cdc.gov/chronicdisease/resources/publications/factsheets/nutrition.htm</p>
+<p>https://www.nourishdoc.com/nutrition/filipino-pinakbet-for-heart-health</p>
+<p>https://panlasangpinoy.com/</p>
+<p>https://www.nutritionix.com/food</p>
+<p>https://www.allrecipes.com/recipe</p>
 
