@@ -19,6 +19,7 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A healthy eating plan provides your body with the nutrition it need on a daily basis while keeping you under your daily calorie goal for weight loss. A healthy plan also reduce your chances of heart disease and other health problems. A well-balances meal supplies you with all the energy you need to be active throughout the day. The nutrients you need for growth and repair, helping you to stay strong, healthy, and assist to prevent diet-related sickness, such as some malignancies.</p>
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this generation, many people develop illnesses that is caused by the food that they intake such as Obesity, Diabetes, Gallstone etc. That is why many people opt to eat healthy foods to avoid those illnesses. Healthy recipe Apps such as the one we developed can help people to change there lifestyle.</p>
 
 <h2>Sustainable Development Goals</h2>
 
