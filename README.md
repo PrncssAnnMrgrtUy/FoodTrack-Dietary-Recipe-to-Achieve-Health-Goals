@@ -39,7 +39,23 @@
 <h3>ANALYSIS</h3>
      <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During the initial phase, the team intends to develop a mobile application to deliver healthy recipes to help the users maintain their good eating habits. The primary goal in launching this application is to help the users with deciding what food could they cook for the day. It also assists app users in better understanding the various foods that would boost their health.</p>
 
+<h3>DESIGN</h3>
+     <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Creating the application displays the initial paperwork containing all of the essentials for the application. Including presence of a wireframe that will serve as a model to further clarify the structure as well as a high-fidelity render design displaying the overall the application's look.</p>
 
+<h3>DEVELOPMENT</h3>
+    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the design section, The crew will collaborate with the technique for developing coding the application that will fulfill the goals and plans properly serve its objectives the users.</p>
+
+<h3>TESTING</h3>
+    <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The team will having a multi-step procedure by reviewing the program for any possible errors. Do errors and bugs alterations when the situation presents it. As a result of the testing as well as the debugging procedure, The application will have its own dependability and growth to be able to help the users in achieving the health goals by providing healthy recipes. </p>
+
+<h3>IMPLEMENTATION</h3>
+   <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Following the effective conclusion of the debugging and testing of the application, it will be implemented and accessible to the users that can serve as a guide on what healthy food should they cook for themselves.</p>
+
+<h3>MAINTENANCE</h3>
+     <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The group will consider and review possible complications that may emerge when the application is implemented. Targeting to always improve, to support, and continue to be dependable to ensure the success of the application.</p>
+
+<h2>System Architecture</h2>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The diagram shows the flow on how the users can use the app and how each functions work when the user access the application. It shows how the user can use the application and how easy it is to navigate its interface.</p>    
 <h3>Use Case Diagram</h3>
 
 ![usecase](https://github.com/PrncssAnnMrgrtUy/GoodFood-Healthy-Recipe-to-Achieve-Health-Goals/assets/114508738/c504b125-1957-45f0-9c00-4ea215b7ab00)
