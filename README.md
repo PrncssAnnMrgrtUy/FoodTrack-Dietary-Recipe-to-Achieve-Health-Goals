@@ -21,6 +21,8 @@
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In this generation, many people develop illnesses that is caused by the food that they intake such as Obesity, Diabetes, Gallstone etc. That is why many people opt to eat healthy foods to avoid those illnesses. Healthy recipe Apps such as the one we developed can help people to change there lifestyle.</p>
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A nutritious diet is critical for optimal health and nutrition. It protects against a wide range of chronic noncommunicable diseases, including heart disease, diabetes, and cancer. A healthy diet includes eating a variety of foods and consuming less salt, sugar, saturated fat, and industrially generated trans fats. Staying physically healthy might help you stay mentally healthy as well. If you consume the correct foods and exercise regularly, your body will be strong and will help you manage with stress and battle sickness. Eating healthily and exercising frequently as a teenager will also help you stay healthy later in life. This mobile app aims to make cooking simpler, quicker, and more convenient. It offers various food recipes that anyone can easily make at the comfort of their own home, which can also help them to achieve their health goals.</p>
+
 <h2>Sustainable Development Goals</h2>
 
 
